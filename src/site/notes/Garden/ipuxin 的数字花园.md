@@ -1,5 +1,5 @@
 ---
-{"title":"home","dg-publish":true,"dg-home":"true","permalink":"/Garden/ipuxin 的数字花园/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Our Garden","dg-publish":true,"dg-home":"true","permalink":"/Garden/ipuxin 的数字花园/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
